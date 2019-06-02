@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "امتحان تجريبي",
-    "propellant": "من انجاز وليد بن سعيد",
+    "propellant": "شعبة العلوم التجريبية",
     "destination": "Alpha Centauri A",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
     "technologyexists": "1"
