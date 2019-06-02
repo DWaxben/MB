@@ -1,24 +1,24 @@
 [
   {
-    "id": "28",
-    "name": "Voyager A",
-    "propellant": "Warp Drive",
+    "id": "1",
+    "name": "امتحان تجريبي",
+    "propellant": "من انجاز وليد بن سعيد",
+    "destination": "Alpha Centauri A",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
+    "technologyexists": "1"
+  },
+  {
+    "id": "2",
+    "name": "امتحان تجريبي",
+    "propellant": "من انجاز وليد بن سعيد",
     "destination": "Alpha Centauri A",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
     "technologyexists": "1"
   },
   {
     "id": "28",
-    "name": "Voyager A",
-    "propellant": "Warp Drive",
-    "destination": "Alpha Centauri A",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
-    "technologyexists": "1"
-  },
-  {
-    "id": "28",
-    "name": "Voyager A",
-    "propellant": "Warp Drive",
+    "name": "من انجاز وليد بن سعيد",
+    "propellant": "من انجاز وليد بن سعيد",
     "destination": "Alpha Centauri A",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
     "technologyexists": "1"
