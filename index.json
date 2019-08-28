@@ -1,82 +1,33 @@
 [
   {
     "id": "1",
-    "name": "امتحان تجريبي",
-    "propellant": "2bac شعبة العلوم التجريبية",
-    "destination": "Alpha Centauri A",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
-    "technologyexists": "1"
+    "name": "Radio Yabiladi",
+    "propellant": "http://37.187.146.76:8000/stream",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/a.png"
   },
   {
     "id": "2",
-    "name": "امتحان تجريبي",
-    "propellant": "2bac شعبة العلوم التجريبية 2 2bac",
-    "destination": "Alpha Centauri A",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
-    "technologyexists": "1"
+    "name": "Radio Coran",
+    "propellant": "http://stream4.coran.tk:8005/stream/1/",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/radiocoran.png"
   },
   {
-    "id": "28",
-    "name": "من انجاز وليد بن سعيد",
-    "propellant": "من انجاز وليد بن سعيد",
-    "destination": "Alpha Centauri A",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
-    "technologyexists": "1"
+    "id": "3",
+    "name": "Idaa Al watania",
+    "propellant": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-video=100000-audio_AACL_qad_130400_110=130400.m3u8",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/idaaalwatania.png?token=AiH6Ss_Hl8ySgu5WgoVym9wnDeS9BGYcks5ck6_ZwA%3D%3D"
   },
   {
-    "id": "28",
-    "name": "Voyager A",
-    "propellant": "Warp Drive",
-    "destination": "Alpha Centauri A",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
-    "technologyexists": "1"
+    "id": "4",
+    "name": "Radio Mars",
+    "propellant": "http://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/c.jpg?token=AiH6Sls0t4o9DAd2KWGdb7QRq5aGSkmgks5ck7AgwA%3D%3D"
   },
   {
-    "id": "28",
-    "name": "Voyager A",
-    "propellant": "Warp Drive",
-    "destination": "Alpha Centauri A",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
-    "technologyexists": "1"
-  },
-  {
-    "id": "28",
-    "name": "Voyager A",
-    "propellant": "Warp Drive",
-    "destination": "Alpha Centauri A",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
-    "technologyexists": "1"
-  },
-  {
-    "id": "28",
-    "name": "Voyager A",
-    "propellant": "Warp Drive",
-    "destination": "Alpha Centauri A",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
-    "technologyexists": "1"
-  },
-  {
-    "id": "28",
-    "name": "Voyager A",
-    "propellant": "Warp Drive",
-    "destination": "Alpha Centauri A",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
-    "technologyexists": "1"
-  },
-  {
-    "id": "28",
-    "name": "Voyager A",
-    "propellant": "Warp Drive",
-    "destination": "Alpha Centauri A",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
-    "technologyexists": "1"
-  },
-  {
-    "id": "29",
-    "name": "Voyager B",
-    "propellant": "Plasma Ions",
-    "destination": "Proxima Centauri",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/pdf.png",
-    "technologyexists": "0"
+    "id": "5",
+    "name": "Izlanzik Radio",
+    "propellant": "http://server.izlanzik.org:8000/stream/1/",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/i.jpg?token=AiH6StTGR8A1rNwRrFbSsksFyKA1qBssks5ck7CswA%3D%3D"
   }
+  
 ]
