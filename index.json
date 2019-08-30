@@ -2,30 +2,45 @@
   {
     "id": "1",
     "name": "Radio Yabiladi",
+    "name2": "Radio Yabiladi",
+    "name3": "Radio Yabiladi",
+    "name4": "Radio Yabiladi",
     "propellant": "http://37.187.146.76:8000/stream",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/a.png"
   },
   {
     "id": "2",
     "name": "Radio Coran",
+    "name2": "Radio Yabiladi",
+    "name3": "Radio Yabiladi",
+    "name4": "Radio Yabiladi",
     "propellant": "http://stream4.coran.tk:8005/stream/1/",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/radiocoran.png"
   },
   {
     "id": "3",
     "name": "Idaa Al watania",
+    "name2": "Radio Yabiladi",
+    "name3": "Radio Yabiladi",
+    "name4": "Radio Yabiladi",
     "propellant": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-video=100000-audio_AACL_qad_130400_110=130400.m3u8",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/idaaalwatania.png?token=AiH6Ss_Hl8ySgu5WgoVym9wnDeS9BGYcks5ck6_ZwA%3D%3D"
   },
   {
     "id": "4",
     "name": "Radio Mars",
+    "name2": "Radio Yabiladi",
+    "name3": "Radio Yabiladi",
+    "name4": "Radio Yabiladi",
     "propellant": "http://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/c.jpg?token=AiH6Sls0t4o9DAd2KWGdb7QRq5aGSkmgks5ck7AgwA%3D%3D"
   },
   {
     "id": "5",
     "name": "Izlanzik Radio",
+    "name2": "Radio Yabiladi",
+    "name3": "Radio Yabiladi",
+    "name4": "Radio Yabiladi",
     "propellant": "http://server.izlanzik.org:8000/stream/1/",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/i.jpg?token=AiH6StTGR8A1rNwRrFbSsksFyKA1qBssks5ck7CswA%3D%3D"
   }
