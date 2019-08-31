@@ -6,7 +6,7 @@
     "name3": "Radio Yabiladi",
     "name4": "Radio Yabiladi",
     "propellant": "http://37.187.146.76:8000/stream",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/a.png"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/placeholder.jpg"
   },
   {
     "id": "2",
@@ -15,7 +15,7 @@
     "name3": "Radio Yabiladi",
     "name4": "Radio Yabiladi",
     "propellant": "http://stream4.coran.tk:8005/stream/1/",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/radiocoran.png"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/placeholder.jpg"
   },
   {
     "id": "3",
@@ -33,7 +33,7 @@
     "name3": "Radio Yabiladi",
     "name4": "Radio Yabiladi",
     "propellant": "http://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/c.jpg?token=AiH6Sls0t4o9DAd2KWGdb7QRq5aGSkmgks5ck7AgwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/placeholder.jpg"
   },
   {
     "id": "5",
@@ -42,7 +42,7 @@
     "name3": "Radio Yabiladi",
     "name4": "Radio Yabiladi",
     "propellant": "http://server.izlanzik.org:8000/stream/1/",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/i.jpg?token=AiH6StTGR8A1rNwRrFbSsksFyKA1qBssks5ck7CswA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/placeholder.jpg"
   }
   
 ]
