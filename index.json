@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": "0",
     "name": "Radio Yabiladi",
     "name2": "Radio Yabiladi",
     "name3": "Radio Yabiladi",
@@ -18,16 +18,7 @@
     "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/placeholder.jpg"
   },
   {
-    "id": "3",
-    "name": "Idaa Al watania",
-    "name2": "Radio Yabiladi",
-    "name3": "Radio Yabiladi",
-    "name4": "Radio Yabiladi",
-    "propellant": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-video=100000-audio_AACL_qad_130400_110=130400.m3u8",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/idaaalwatania.png?token=AiH6Ss_Hl8ySgu5WgoVym9wnDeS9BGYcks5ck6_ZwA%3D%3D"
-  },
-  {
-    "id": "4",
+    "id": "0",
     "name": "Radio Mars",
     "name2": "Radio Yabiladi",
     "name3": "Radio Yabiladi",
