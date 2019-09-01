@@ -1,6 +1,7 @@
 [
   {
     "id": "0",
+    "nameid": "waxben_pdf1",
     "name": "جدول العطل 2019/2020",
     "name2": " جميع الجهات",
     "name3": " جميع المستويات",
@@ -9,7 +10,8 @@
     "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/mosa.jpg"
   },
   {
-    "id": "2",
+    "id": "1",
+    "nameid": "waxben_pdf2",
     "name": "Radio Coran",
     "name2": "Radio Yabiladi",
     "name3": "Radio Yabiladi",
@@ -19,6 +21,7 @@
   },
   {
     "id": "0",
+    "nameid": "waxben_pdf3",
     "name": "Radio Mars",
     "name2": "Radio Yabiladi",
     "name3": "Radio Yabiladi",
@@ -27,7 +30,8 @@
     "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/placeholder.jpg"
   },
   {
-    "id": "5",
+    "id": "0",
+    "nameid": "waxben_pdf4",
     "name": "Izlanzik Radio",
     "name2": "Radio Yabiladi",
     "name3": "Radio Yabiladi",
