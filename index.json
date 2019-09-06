@@ -1,43 +1,44 @@
 [
   {
-    "id": "0",
-    "nameid": "waxben_pdf1",
-    "name": "جدول العطل 2019/2020",
-    "name2": " جميع الجهات",
-    "name3": " جميع المستويات",
-    "name4": "موقع ويب",
-    "propellant": "http://37.187.146.76:8000/stream",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/mosa.jpg"
+    "id":"1",
+    "name":"1sdfsd",
+    "country":"Switzerland",
+    "city":"Basel",
+    "imgURL":"https://raw.githubusercontent.com/DWaxben/MB/master/mosa.jpg"
   },
   {
-    "id": "1",
-    "nameid": "waxben_pdf2",
-    "name": "Radio Coran",
-    "name2": "Radio Yabiladi",
-    "name3": "Radio Yabiladi",
-    "name4": "Radio Yabiladi",
-    "propellant": "https://www.google.com",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/placeholder.jpg"
+    "id":"2",
+    "name":"2dfsfdsdf",
+    "country":"Spain",
+    "city":"Madrid",
+    "https://raw.githubusercontent.com/DWaxben/MB/master/mosa.jpg"
   },
-  {
-    "id": "0",
-    "nameid": "waxben_pdf3",
-    "name": "Radio Mars",
-    "name2": "Radio Yabiladi",
-    "name3": "Radio Yabiladi",
-    "name4": "Radio Yabiladi",
-    "propellant": "http://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/placeholder.jpg"
+   {
+    "id":"1",
+    "name":"3dfsdfsf",
+    "country":"Spain",
+    "city":"Madrid",
+    "https://raw.githubusercontent.com/DWaxben/MB/master/mosa.jpg"
   },
-  {
-    "id": "0",
-    "nameid": "waxben_pdf4",
-    "name": "Izlanzik Radio",
-    "name2": "Radio Yabiladi",
-    "name3": "Radio Yabiladi",
-    "name4": "Radio Yabiladi",
-    "propellant": "http://server.izlanzik.org:8000/stream/1/",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/MB/master/placeholder.jpg"
+   {
+    "id":"0",
+    "name":"4sqdqsdqs",
+    "country":"Spain",
+    "city":"Madrid",
+    "https://raw.githubusercontent.com/DWaxben/MB/master/mosa.jpg"
+  },
+   {
+    "id":"2",
+    "name":"Rafael Nadal",
+    "country":"Spain",
+    "city":"Madrid",
+    "https://raw.githubusercontent.com/DWaxben/MB/master/mosa.jpg"
+  },
+   {
+    "id":"2",
+    "name":"Rafael Nadal",
+    "country":"Spain",
+    "city":"Madrid",
+    "https://raw.githubusercontent.com/DWaxben/MB/master/mosa.jpg"
   }
-  
 ]
