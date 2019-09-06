@@ -1,4 +1,8 @@
-[
+{
+  "status":"true",
+  "message":"Data fetched successfully!",
+  "data":
+ [
   {
     "id":"1",
     "name":"1sdfsd",
@@ -41,4 +45,5 @@
     "city":"Madrid",
     "https://raw.githubusercontent.com/DWaxben/MB/master/mosa.jpg"
   }
-]
+ ]
+}
