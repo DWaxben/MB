@@ -1,16 +1,4 @@
-{
-   "status":"ok",
-   "count":10,
-   "pages":7,
-   "category":{
-      "id":218,
-      "slug":"action",
-      "title":"Action",
-      "description":"",
-      "parent":0,
-      "post_count":61
-   },
-   "posts":[
+[
       {
          "id":1,
          "name":"lihl oih iohih ",
@@ -30,4 +18,3 @@
          "thumbnail":"http:\/\/www.lovedesigner.net\/wp-content\/uploads\/2019\/07\/polar-0-195x110.jpg"
       }
    ]
-}
