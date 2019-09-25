@@ -1,20 +1,22 @@
-[
+{
+      "total_count": 10,
+      "incomplete_results":false,
+      "Album":
+    [
       {
-         "id":1,
          "name":"lihl oih iohih ",
          "numOfSongs":"11",
          "thumbnail":"http:\/\/www.lovedesigner.net\/wp-content\/uploads\/2019\/07\/polar-0-195x110.jpg"
       },
       {
-         "id":1,
          "name":"lihl oih iohih ",
          "numOfSongs":"11",
          "thumbnail":"http:\/\/www.lovedesigner.net\/wp-content\/uploads\/2019\/07\/polar-0-195x110.jpg"
       },
       {
-         "id":1,
          "name":"lihl oih iohih ",
          "numOfSongs":"11",
          "thumbnail":"http:\/\/www.lovedesigner.net\/wp-content\/uploads\/2019\/07\/polar-0-195x110.jpg"
       }
    ]
+}
